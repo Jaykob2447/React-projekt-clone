@@ -81,4 +81,30 @@ export default {
       items: ['Terms of Service', 'Privacy Policy', 'Cookie Policy'],
     },
   ],
+  ComponentAtom: [
+    {
+      src: `componentsAtom/lamp.jpg`,
+      title: 'Consultant Led',
+      about:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, enim voluptate. Rerum praesentium aperiam sint voluptate. Rerum praesentium aperiam sint.',
+    },
+    {
+      src: 'componentsAtom/medal.jpg',
+      title: 'Crowd Powerd',
+      about:
+        'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui facilis tenetur perspiciatis magnam!',
+    },
+    {
+      src: 'componentsAtom/star.jpg',
+      title: 'Trademark Reposts',
+      about:
+        'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio sapiente fugit, quas officia exercitationem ab laboriosam deserunt labore adipisci soluta facilis tenetur perspiciatis magnam!',
+    },
+    {
+      src: 'componentsAtom/team.jpg',
+      title: 'Audiense Testing',
+      about:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores?',
+    },
+  ],
 };
